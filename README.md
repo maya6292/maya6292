@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @maya6292
+- 👋 Hi, I’m @aziz6292
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning CS at PUCIT 
 - 📫 my mail id maya6862422@gmail.com
